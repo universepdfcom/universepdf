@@ -38,10 +38,12 @@ The goal of UniversePDF is to provide simple, fast, and accessible tools
 without requiring login or complex setup.
 
 ## ❤️ Support the Project
-UniversePDF is free to use.  
-If you find it helpful, you can support its development here:
+UniversePDF provides free online PDF, image, and file tools.
+There are no subscriptions and minimal ads.
+
+If these tools saved you time or helped your work, you can support the project here:
 
 👉 **PayPal Support Link:**  
 https://www.paypal.com/ncp/payment/RYHB8LENT42NY
 
-Thank you for supporting this project.
+Your support helps cover server costs and future improvements.
